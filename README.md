@@ -1,4 +1,4 @@
-## Olá! Seja bem-vindo a este repositório
+## Hi! Welcome this is repository
 
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=wevertoncamposdev&show_icons=true&theme=discord_old_blurple">
@@ -18,8 +18,7 @@
 ![VisualCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 
-## Contatos
-
+## Contacts
 <div>
     <a href="https://www.linkedin.com/in/wevertoncamposdev" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
