@@ -4,3 +4,5 @@
 
 
 [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wevertoncamposdev&layout=compact)](https://github.com/wevertoncamposdev/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wevertoncamposdev&langs_count=8)](https://github.com/wevertoncamposdev/github-readme-stats)
