@@ -3,6 +3,9 @@
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=wevertoncamposdev&show_icons=true&theme=discord_old_blurple">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wevertoncamposdev&layout=compact&theme=discord_old_blurple">
+    <p align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=Sjhns&theme=omni&locale=pt_BR" />
+    </p>
 </div>
 
 ## Skills
