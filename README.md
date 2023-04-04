@@ -3,14 +3,19 @@
 - Participando da comunidade [SouJunior](https://github.com/SouJunior)
 - Founder no projeto [Terceiro Gestor](https://github.com/TerceiroGestor)
 
+<div align='center' style="max-width:300px;">
+
 ![linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=wevertoncamposdev&layout=compact&theme=discord_old_blurple)
 ![status](https://github-readme-stats.vercel.app/api?username=wevertoncamposdev&show_icons=true&theme=discord_old_blurple)
 ![contribuições](https://github-readme-streak-stats.herokuapp.com?user=wevertoncamposdev&theme=omni&locale=pt_BR)
+
+</dev>
 
 <div align='center'>
 
 <h1>Skills</h1>
 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
