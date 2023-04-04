@@ -3,11 +3,18 @@
 - Participando da comunidade [SouJunior](https://github.com/SouJunior)
 - Founder no projeto [Terceiro Gestor](https://github.com/TerceiroGestor)
 
-<div align='center' style="max-width:300px;">
+<div align='center'>
 
-![linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=wevertoncamposdev&layout=compact&theme=discord_old_blurple)
-![status](https://github-readme-stats.vercel.app/api?username=wevertoncamposdev&show_icons=true&theme=discord_old_blurple)
-![contribuições](https://github-readme-streak-stats.herokuapp.com?user=wevertoncamposdev&theme=omni&locale=pt_BR)
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wevertoncamposdev&layout=compact&theme=discord_old_blurple" alt="linguagens" style="max-width: 300px;">
+</p>
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=wevertoncamposdev&show_icons=true&theme=discord_old_blurple" alt="status" style="max-width: 300px;">
+</p>
+<p>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=wevertoncamposdev&theme=omni&locale=pt_BR" alt="contribuições" style="max-width: 300px;">
+</p>
 
 </dev>
 
