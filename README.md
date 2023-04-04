@@ -1,5 +1,8 @@
 ## Hi! Welcome this is repository
 - Atualmente estudando análise e desenvolvimento de sistemas - EAD na faculdade Wyden Unifavip
+- Participando da comunidade [SouJunior](https://github.com/SouJunior)
+- Founder no projeto [Terceiro Gestor](https://github.com/TerceiroGestor)
+- 
 <div>
     <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=wevertoncamposdev&show_icons=true&theme=discord_old_blurple">
