@@ -7,7 +7,9 @@
 ![status](https://github-readme-stats.vercel.app/api?username=wevertoncamposdev&show_icons=true&theme=discord_old_blurple)
 ![contribuições](https://github-readme-streak-stats.herokuapp.com?user=wevertoncamposdev&theme=omni&locale=pt_BR)
 
-## Skills
+<div align='center'>
+
+<h1>Skills</h1>
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -19,9 +21,10 @@
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![VisualCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+</div>
 
-## Contacts
-<div>
+<div align='center'>
+    <h1>Contatos</h1>
     <a href="https://wevertoncamposdev.github.io" target="_blank">
         <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
     </a>
@@ -34,7 +37,6 @@
     <a href="mailto:wevertoncamposdev@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
-
 </div>
 
 
