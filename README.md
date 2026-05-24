@@ -1,17 +1,9 @@
 ## Olá! Eu sou Weverton Campos
-- Atualmente estudando análise e desenvolvimento de sistemas - EAD na faculdade Wyden Unifavip, conclusão 2023.2
-- Participando da comunidade [SouJunior](https://github.com/SouJunior)
+- Formação: Análise e Desenvolvimento de Sistemas - EAD na faculdade Wyden Unifavip, 2023.
 - Founder no projeto [Terceiro Gestor](https://github.com/TerceiroGestor)
 
 <div align='center'>
 
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wevertoncamposdev&layout=compact&theme=discord_old_blurple" alt="linguagens" style="max-width: 300px;">
-</p>
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=wevertoncamposdev&show_icons=true&theme=discord_old_blurple" alt="status" style="max-width: 300px;">
-</p>
 <p>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=wevertoncamposdev&theme=omni&locale=pt_BR" alt="contribuições" style="max-width: 300px;">
 </p>
