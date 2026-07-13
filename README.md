@@ -20,7 +20,7 @@
 - 🎓 **Formação:** Análise e Desenvolvimento de Sistemas — EAD, Faculdade Wyden Unifavip (2023)
 - 💼 Atualmente desenvolvendo uma **plataforma SaaS multi-tenant**, com backend em **NestJS** (Fastify) e frontend em **Next.js** (App Router), usando **PostgreSQL + Prisma** e autenticação via **httpOnly cookies**
 - 🧩 Fundação backend-leaning (NestJS), aprofundando arquitetura frontend com Server Components e padrões modernos do Next.js
-- 🚀 Idealizador / Founder / Criador do projeto [**Terceiro Gestor**](https://github.com/TerceiroGestor)
+- 🚀 Founder do projeto [Terceiro Gestor](https://github.com/TerceiroGestor) — idealizado e desenvolvido do zero
 - 🌱 Aprendendo continuamente sobre data fetching, caching e arquitetura Server Component-first no Next.js
 
 ---
@@ -45,7 +45,7 @@
       <br />
       Projeto próprio — idealizado e desenvolvido do zero.
       <br />
-      <sub>Founder & Criador</sub>
+      <sub>Founder</sub>
     </td>
   </tr>
   <tr>
