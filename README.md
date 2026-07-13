@@ -1,47 +1,39 @@
-## Olá! Eu sou Weverton Campos
-- Formação: Análise e Desenvolvimento de Sistemas - EAD na faculdade Wyden Unifavip, 2023.
-- Founder no projeto [Terceiro Gestor](https://github.com/TerceiroGestor)
+<h1 align="center">Olá, eu sou o Weverton 👋</h1>
 
-<div align='center'>
-
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=wevertoncamposdev&theme=omni&locale=pt_BR" alt="contribuições" style="max-width: 300px;">
+<p align="center">
+  Desenvolvedor Fullstack focado em construir plataformas SaaS escaláveis e multi-tenant
 </p>
 
-</dev>
+<p align="center">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white" />
+</p>
 
-<div align='center'>
+---
 
-<h1>Skills</h1>
+### 🚀 Sobre mim
 
-![NestJS](https://img.shields.io/badge/nestjs-000000?style=for-the-badge&logo=nestjs&logoColor=FF2D20)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-128CC7?style=for-the-badge&logo=typescript&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+- 🎓 **Formação:** Análise e Desenvolvimento de Sistemas — EAD, Faculdade Wyden Unifavip (2023)
+- 💼 Atualmente desenvolvendo uma **plataforma SaaS multi-tenant**, com backend em **NestJS** (Fastify) e frontend em **Next.js** (App Router), usando **PostgreSQL + Prisma** e autenticação via **httpOnly cookies**
+- 🧩 Fundação backend-leaning (NestJS), aprofundando arquitetura frontend com Server Components e padrões modernos do Next.js
+- 🚀 Idealizador / Founder / Criador do projeto [**Terceiro Gestor**](https://github.com/TerceiroGestor)
+- 🌱 Aprendendo continuamente sobre data fetching, caching e arquitetura Server Component-first no Next.js
 
+---
 
+### 🛠️ Stack principal
 
-</div>
+**Backend:** NestJS · Fastify · Prisma · PostgreSQL
+**Frontend:** Next.js (App Router) · React · TypeScript · shadcn/ui
+**Infra:** GitHub · Render
+**Outros:** Autenticação com Server Actions, Middleware, integrações de acessibilidade (VLibras/Libras)
 
-<div align='center'>
-    <h1>Contatos</h1>
-    <a href="https://wevertoncamposdev.github.io" target="_blank">
-        <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
-    </a>
-    <a href="https://www.linkedin.com/in/wevertoncamposdev" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    <a href="https://api.whatsapp.com/send?phone=5517992114611" target="_blank">
-        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-    </a>
-    <a href="mailto:wevertoncamposdev@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
-</div>
+---
 
+### 📌 Projetos em destaque
 
-
+<table>
