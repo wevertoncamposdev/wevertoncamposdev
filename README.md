@@ -54,7 +54,7 @@
         <b>📚 study</b>
       </a>
       <br />
-      Repositório de estudos e evolução técnica em Next.js e arquitetura frontend.
+      Repositório de pesquisa e estudos e evolução técnica em Next.js e Nest.JS, focando em padrões de projetos.
     </td>
   </tr>
 </table>
